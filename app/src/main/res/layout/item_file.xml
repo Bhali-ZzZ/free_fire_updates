@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="30dp"
+    android:background="@color/off_white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/off_white">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@mipmap/ic_launcher"
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="25dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingVertical="8dp">
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/play_regular"
+                android:text="01/01/2024"
+                android:textColor="@color/date_color"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:fontFamily="@font/play_regular"
+                android:text="PATCH NOTE"
+                android:textColor="@color/date_color"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <TextView
+
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/play_regular"
+            android:paddingVertical="12dp"
+            android:text="Patch Notes"
+            android:textColor="@color/black"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

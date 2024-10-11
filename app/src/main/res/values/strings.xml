@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FF Updates</string>
+
+
+    <string name="title1">PATCH NOTE</string>
+    <string name="title2">PATCH NOTE</string>
+    <string name="title3">ANNOUNCEMENT</string>
+    <string name="title4">PATCH NOTE</string>
+    <string name="title5">PATCH NOTE</string>
+    <string name="title6">PATCH NOTE</string>
+    <string name="title7">DEVBLOG</string>
+    <string name="title8">COLLABORATION</string>
+    <string name="title9">ANNOUNCEMENT</string>
+    <string name="title10">PATCH NOTE</string>
+    <string name="title11">DEVBLOG</string>
+    <string name="title12">ANNOUNCEMENTS</string>
+
+
+
+    <string name="det1">New skins and character outfits have arrived in Free Fire, available through events and bundles.\nGuild Wars update brings weekly battles, an improved ranking system, and better rewards for guild members.\nThe introduction of new vehicle types, including the \"Blazing SUV,\" offers faster movement around the map.\nPlayers can now participate in daily tournaments, earning special badges and rewards for consistent performance.\nCustomization options have been expanded, allowing for personalized character animations during victory moments.</string>
+
+    <string name="det2">The new ranked season is live with tougher matches and exclusive rewards for top players.\nWeapon crafting has been introduced, allowing players to customize their loadouts before each battle.\nA brand-new feature, \"Dynamic Weather,\" alters in-game environments and visibility, affecting battle strategies.\nPlayers can now form alliances in the new Clan Wars mode, with shared missions and guild-wide rewards.\nThe Elite Pass now includes special missions tied to the ongoing storyline, with narrative-driven objectives.</string>
+
+    <string name="det3">Event mode returns to Free Fire with unique rules, allowing players to earn tokens for special rewards.\nNew characters with special abilities have been added, each offering different tactical advantages in combat.\nThe popular \"Sniper Challenge\" mode is back, featuring enhanced map designs and exclusive sniper rifles.\nA loyalty program has been introduced, where long-term players receive monthly gifts and exclusive items.\nNew skins for vehicles and drones are now available through timed events and premium bundles.</string>
+
+    <string name="det4">A new character named \"Rogue\" with stealth abilities has been introduced in Free Fire.\nRogue\'s unique skills allow him to move undetected for short periods, making him ideal for surprise attacks.\nThe character\'s backstory ties into the Free Fire universe, adding depth to the evolving game lore.\nWeekly \"Character Spotlight\" events offer special challenges related to newly introduced characters.\nPlayers can unlock Rogue\'s exclusive outfits and weapon skins by completing his specific in-game missions.</string>
+
+    <string name="det5">Weapon balancing updates introduce the new \"Cyclone Rifle\" with special attachments for increased accuracy.\nThe \"Firestorm\" map has been redesigned with new areas, providing fresh strategies for experienced players.\nBattle Royale mode has been updated with faster circle shrinking, encouraging more intense firefights.\nPlayers can now join limited-time modes that feature faster-paced, high-stakes combat scenarios.\nSeasonal skins and character outfits inspired by historical warriors have arrived, available through special events.</string>
+
+    <string name="det6">The new battle pass offers exclusive skins, emotes, and rewards through both free and premium paths.\nThemed emotes based on the latest collaborations are available, allowing players to express themselves in style.\nA new series of in-game events called \"Battle Masters\" challenges players to complete objectives for elite rewards.\nSpecial offers for weapon crates, featuring rare items, are available for a limited time.\nCustom rooms now offer more options for personalizing game modes and creating unique challenges for friends.</string>
+
+    <string name="det7">Free Fire collaborates with a popular music artist, offering exclusive items, themed missions, and an in-game concert event.\nMusic-themed skins and outfits are available for a limited time, reflecting the artist\'s unique style.\nNew soundtracks and lobby music have been added to enhance the in-game experience during the event.\nPlayers can participate in rhythm-based mini-games to unlock exclusive rewards.\nAdditionally, limited-edition weapon skins and backpacks based on the collaboration are now available in the store.</string>
+
+    <string name="det8">New changes in the Bermuda map bring new POIs and seasonal decorations to enhance gameplay.\nThe introduction of underwater combat mechanics adds a new layer of strategy to battle royale matches.\nSeasonal events now feature team-based challenges with larger squads and coordinated objectives.\nSpecial limited-time modes offer unique mechanics, such as no respawns or single-weapon loadouts.\nPlayers can earn seasonal badges, which unlock exclusive rewards like legendary outfits and weapon skins.</string>
+
+    <string name="det9">Guild Wars update brings weekly battles, an improved ranking system, and better rewards for guild members.\nNew guild perks include faster recovery times, better loot drops, and exclusive guild skins.\nThe Clan Store has been updated with fresh items available for purchase using guild points.\nGuild leadership roles have been expanded, allowing for more delegation and management within larger groups.\nPlayers who participate in Guild Wars now have a chance to unlock special guild-themed emotes and banners.</string>
+
+    <string name="det10">New leaderboard rewards system now offers exclusive prizes for top-ranked players each week.\nThe introduction of daily and weekly quests tied to the leaderboard encourages more active participation.\nTop players can now earn special titles that are displayed during matches, showcasing their achievements.\nSeason-end ceremonies will reward top players with unique skins, items, and public recognition in the game.\nLeaderboards are now divided by regions, giving players more opportunities to compete at a local and global level.</string>
+
+    <string name="det11">Diamond Royale returns with futuristic-themed items, limited-time rewards, and improved draw chances.\nPlayers can now participate in Diamond Royale events through free spins earned via daily challenges.\nA new loyalty program rewards frequent players with better odds in Diamond Royale draws.\nExclusive items in Diamond Royale include animated weapon skins, neon outfits, and high-tech vehicles.\nThemed missions tied to Diamond Royale unlock special crates that contain rare and legendary items.</string>
+
+    <string name="det12">Squad events are here, allowing squads to compete and earn exclusive rewards through challenges.\nSquad-based leaderboards have been added, ranking the best-performing teams in the region.\nSquad events feature limited-time modes designed for cooperative gameplay, with special mechanics.\nWinning squads can unlock unique banners, team skins, and squad emotes for use in future matches.\nSquads that complete all event challenges will be rewarded with legendary items and exclusive team badges.</string>
+
+
+
+
+</resources>
